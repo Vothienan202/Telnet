@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\bin\Debug\Telnet.exe.config
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\bin\Debug\Telnet.exe
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\bin\Debug\Telnet.pdb
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.TelnetServer.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.Properties.Resources.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.exe
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\lab3\Telnet\obj\Debug\Telnet.pdb
